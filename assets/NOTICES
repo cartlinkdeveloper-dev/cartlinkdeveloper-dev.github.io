@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _flutterfire_internals
 
 Copyright 2017, the Chromium project authors. All rights reserved.
@@ -28,6 +29,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 aFileChooser
 
                                  Apache License
@@ -1091,6 +1094,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 accessibility
 engine
+<<<<<<< HEAD
+=======
+image_picker
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 spring_animation
 tonic
 url_launcher_web
@@ -2955,7 +2962,10 @@ google_maps_flutter
 google_maps_flutter_android
 google_maps_flutter_ios
 google_maps_flutter_platform_interface
+<<<<<<< HEAD
 image_picker_for_web
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 image_picker_macos
 image_picker_platform_interface
 shared_preferences_android
@@ -5646,6 +5656,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 firebase_core
 firebase_core_platform_interface
 firebase_messaging
@@ -5768,6 +5779,8 @@ firebase_messaging_web
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 fixnum
 stack_trace
 
@@ -6059,6 +6072,10 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
+<<<<<<< HEAD
+=======
+image_picker_for_web
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 image_picker_linux
 image_picker_windows
 path_provider_linux
@@ -6162,6 +6179,7 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 flutter_local_notifications_windows
 
 Copyright 2024 Michael Bui. All rights reserved.
@@ -6192,6 +6210,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 freetype2
 
 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
@@ -31490,6 +31510,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 posix
 
 MIT License
@@ -31515,6 +31536,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 rapidjson
 
 Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip-> All rights reserved->
@@ -32112,6 +32135,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
+<<<<<<< HEAD
 simple_gesture_detector
 table_calendar
 
@@ -32317,6 +32341,8 @@ table_calendar
    See the License for the specific language governing permissions and
    limitations under the License.
 --------------------------------------------------------------------------------
+=======
+>>>>>>> 25cebfa59833f30b704616bef7810653c8119091
 skia
 
 Copyright (C) 2014 Google Inc. All rights reserved.
